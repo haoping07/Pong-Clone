@@ -5,7 +5,7 @@ A 2D pong game clone written in C++ with SDL2 libraries
 
 ## Current progress:
  - (V) Paddles / Ball movement
- - (V) Collision
+ - (V) Collision / Bounce
  - (V) Score display
  - ( ) Add level
  - ( ) Add Sound, Music
