@@ -37,6 +37,6 @@ SDL2_mixer<br/>
 
 ## Credits
  - Some of the code in this project is repurposed from [Lazy Foo's tutorials](http://lazyfoo.net/tutorials/SDL/index.php).
- - Font (OpenSans-Bold.ttf): 
+ - Score board font (OpenSans-Bold.ttf): 
 <br>"OpenSans-Bold" by Ascender Fonts (http://www.ascenderfonts.com) 
 <br>Licence: Apache License v2.00 (https://www.fontsquirrel.com/license/open-sans)
