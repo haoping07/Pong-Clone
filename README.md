@@ -29,8 +29,8 @@ SDL2_mixer<br/>
 
 ## Game Control
 #### Left paddle: 
-- < W > Move Up
-- < S > Move Down
+- < W > Go Up
+- < S > Go Down
 #### Right paddle:
 - < Up Arrow > Go Up
 - < Down Arrow > Go Down
