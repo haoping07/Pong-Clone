@@ -17,10 +17,10 @@ A 2D pong game clone written in C++ with SDL2 libraries
 #### Before Use
 To build this project, you will need to install SDL2 developer libraries:
 
-SDL2<br/>
-SDL2_image<br/>
-SDL2_ttf<br/>
-SDL2_mixer<br/>
+[SDL2](https://www.libsdl.org/download-2.0.php)<br/>
+[SDL2_image](https://www.libsdl.org/projects/SDL_image/)<br/>
+[SDL2_ttf](https://www.libsdl.org/projects/SDL_ttf/)<br/>
+[SDL2_mixer](https://www.libsdl.org/projects/SDL_mixer/)<br/>
 
 #### How to use?
 1. Clone the repo
