@@ -22,11 +22,6 @@ To build this project, you will need to install SDL2 developer libraries:
 [SDL2_ttf](https://www.libsdl.org/projects/SDL_ttf/)<br/>
 [SDL2_mixer](https://www.libsdl.org/projects/SDL_mixer/)<br/>
 
-#### How to use?
-1. Clone the repo
-2. Import the repo to your IDE (I use Visual Studio 2017 / Code::Blocks 17.12)
-3. Compile & Run
-
 ## Game Control
 #### Left paddle: 
 - < W > Go Up
